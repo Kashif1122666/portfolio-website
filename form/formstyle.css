@@ -1,0 +1,24 @@
+.all{
+    display: flex;
+    
+   }
+    #signup{
+      font-size: 40px;
+      margin-left: 120px;
+      margin-bottom: 30px;
+    }
+    #submit-img{
+        border-radius: 200px;
+        margin-left: 50px;
+    }
+    legend,label{
+        color: white;
+    }
+    
+    image{
+        margin: 0%;
+    }
+    body{
+        background-image:  url('../form/pexels-felix-mittermeier-956999.jpg');
+        background-size: cover;
+    }

@@ -1,0 +1,26 @@
+h1{
+    margin-left: 260px;
+}
+h2,h3{
+    margin-left: 90px;
+}
+h2{
+    margin-top: 40px;
+}
+a:hover{
+    background-color: aqua;
+
+}
+a{
+    margin-left: 50px ;
+}
+#name{
+     display: inline-block;
+     margin-right: 20px;
+}
+audio{
+     display: inline-block;
+}
+section{
+    margin-left: 250px;
+}
